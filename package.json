@@ -28,7 +28,7 @@
     "gulp-mocha": "~0.4.1",
     "gulp-plumber": "~0.6.3",
     "gulp-watch": "~0.6.6-1",
-    "karma": "latest",
+    "karma": "^0.12.16",
     "karma-chai": "~0.1.0",
     "karma-chrome-launcher": "~0.1.4",
     "karma-mocha": "latest",
